@@ -1,1 +1,1 @@
-# mypage
+This 7z format file consists of source code for the personal webpage that can be remodelled and reused for any suitable purposes. This code comprises of HTML5,CSS and Bootstrap that makes a perfect combination for a dynamic webpage.
